@@ -2,7 +2,7 @@ import React from 'react'
 
 const Navbar = () => {
   return (
-    <div className=' bg-[url("/deniz.jpg")] bg-no-repeat bg-cover w-full h-[961px]'>
+    <div className=' w-full h-[961px]'>
       <div className='flex h-20 w-full bg-transparent text-green-950 justify-between px-40 items-center'>
         <h2 className='text-5xl hover:text-green-950 mt-20'>EA</h2>
         <ul className='text-green-950 flex space-x-20 mt-20 cursor-pointer'>
