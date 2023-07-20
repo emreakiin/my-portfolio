@@ -8,7 +8,7 @@ const Contact = () => {
 
 
     return (
-        <div className=' justify-center items-center flex w-full h-[961px] font-bold font-serif bg-[url("/denizaltı.jpg")] bg-no-repeat bg-cover'>
+        <div className=' justify-center items-center flex w-full h-[961px] font-bold font-serif bg-[url("/deniz2.jpg")] bg-no-repeat bg-cover'>
             <div className='w-8/12 h-[661px] backdrop-blur-xl text-black flex'>
                 <div className='w-5/12 py-24 pl-36 text-2xl justify-between items-start flex flex-col'>
                     <div>
