@@ -4,19 +4,18 @@ import React from 'react'
 const Navbar = () => {
 
   const handleClickAbout = () => {
-    // Sayfanın aşağı kayması için bir scroll işlemi gerçekleştiriyoruz.
     window.scroll({
-      top: window.innerHeight, // Sayfanın yüksekliği kadar aşağı kayacak.
+      top: window.innerHeight,
       left: 0,
-      behavior: 'smooth', // Kaydırma işleminin pürüzsüz olmasını sağlar.
+      behavior: 'smooth', 
     });
   };
+
   const handleClickContact = () => {
-    // Sayfanın aşağı kayması için bir scroll işlemi gerçekleştiriyoruz.
     window.scroll({
-      top: window.innerHeight*2, // Sayfanın yüksekliği kadar aşağı kayacak.
+      top: window.innerHeight*2, 
       left: 0,
-      behavior: 'smooth', // Kaydırma işleminin pürüzsüz olmasını sağlar.
+      behavior: 'smooth', 
     });
   };
 
