@@ -81,7 +81,7 @@ const Contact = () => {
                         <Link href='https://twitter.com/EmreAki41207953'><BsTwitter /></Link>
                         <Link href='https://www.instagram.com/eemreakiin/'><AiFillInstagram /></Link>
                         <Link href='https://www.etsy.com/your/shops/EStoreByEmre/tools/listings/stats:true '>ETSY</Link>
-                        <Link href='https://github.com/emreakiin '>GİTHUB</Link>
+                        <Link href='https://github.com/emreakiin '>GİT HUB</Link>
                     </div>
                 </div>
 
